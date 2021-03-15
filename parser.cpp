@@ -57,9 +57,6 @@ int main(int argc, char** argv)
    		
 	}
 
-    char aux;
-    cin >> aux;
-
     fin.close();
     return 0;
 }
